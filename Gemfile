@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'react-rails', '~> 1.0'
+gem 'slim'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
