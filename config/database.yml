@@ -9,5 +9,5 @@ development:
 production:
   database: example_production
   adapter: postgresql
-  host: localhost
   password:
+  username:
